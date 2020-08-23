@@ -1,2 +1,2 @@
-# masters_degree
+# masters-degree
 Main repository for my master's degree
